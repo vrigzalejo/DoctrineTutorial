@@ -1,0 +1,21 @@
+{
+  "name": "vrigzalejo/doctrine",
+  "description": "just an execution of the tutorial",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vrigz",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "doctrine/orm": "2.4.*",
+    "symfony/yaml": "2.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}
